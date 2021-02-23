@@ -26,8 +26,6 @@ function Footer(){
 				</div>
 				<div className="column-3-3">
 					<div className="social-icons-footer">
-						<a href="https://www.facebook.com/FelipeVertedor" target="_blank"><i className="fab fa-facebook-f"></i></a>
-					    <a href="https://www.instagram.com/felipevertedor/" target="_blank"><i className="fab fa-instagram"></i></a>
 					    <a href="https://www.linkedin.com/in/felipe-vertedor-franzoni-952841186/?originalSubdomain=br" target="_blank"><i className="fab fa-linkedin"></i></a>
 					</div>
 				</div>
